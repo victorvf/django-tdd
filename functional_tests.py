@@ -1,3 +1,7 @@
+"""
+    1. Quando não conseguimos ver o erro na mensagem retornada, muitas vezes
+usar o time.sleep(valor considerável) já irá resolver o problema.
+"""
 import time
 import unittest
 from selenium import webdriver
